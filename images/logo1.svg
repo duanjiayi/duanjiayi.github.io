@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="124px" viewBox="0 0 400 124" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54 (76480) - https://sketchapp.com -->
+    <title>编组 6复制</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-506.000000, -242.000000)">
+            <g id="编组-6复制" transform="translate(506.000000, 242.000000)">
+                <rect id="矩形复制-105" stroke="#505050" stroke-width="4" fill="#FFFFFF" x="2" y="2" width="396" height="120"></rect>
+                <rect id="矩形复制-104" fill="#505050" x="16" y="16" width="368" height="92"></rect>
+                <g id="编组-4复制" transform="translate(60.000000, 40.000000)">
+                    <rect id="矩形复制-101" fill="#FFFFFF" x="0" y="0" width="48" height="48"></rect>
+                    <rect id="矩形复制-100" fill="#505050" x="12" y="12" width="24" height="24"></rect>
+                </g>
+                <polyline id="矩形复制-99" stroke="#FFFFFF" stroke-width="12" points="184 40 184 81.9828796 144 81.9828796 144 40"></polyline>
+                <polyline id="矩形复制-97" stroke="#FFFFFF" stroke-width="12" transform="translate(244.000000, 67.056208) scale(1, -1) translate(-244.000000, -67.056208) " points="264 46.1124165 264 88 224 88 224 46.1124165"></polyline>
+                <g id="编组-5复制" transform="translate(300.000000, 40.000000)" stroke="#FFFFFF" stroke-width="12">
+                    <path d="M2,48 L2,0" id="矩形复制-94" transform="translate(2.000000, 24.000000) scale(1, -1) translate(-2.000000, -24.000000) "></path>
+                    <path d="M42,48 L42,0" id="矩形复制-93" transform="translate(42.000000, 24.000000) scale(1, -1) translate(-42.000000, -24.000000) "></path>
+                    <path d="M2,10 L42,40" id="路径-2复制-9" stroke-linejoin="bevel"></path>
+                </g>
+                <path d="M224,68 L264,68" id="路径复制-12" stroke="#FFFFFF" stroke-width="12"></path>
+            </g>
+        </g>
+    </g>
+</svg>
