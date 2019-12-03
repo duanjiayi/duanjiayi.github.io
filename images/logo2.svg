@@ -8,11 +8,8 @@
             <g id="编组-6复制-3" transform="translate(936.000000, 109.000000)">
                 <rect id="矩形复制-105" stroke="#505050" stroke-width="5.59872" fill="#FFFFFF" x="2.79936" y="2.79936" width="269.40128" height="269.40128"></rect>
                 <rect id="矩形复制-104" fill="#505050" x="22" y="22" width="231" height="233"></rect>
-                <g id="编组-4复制" transform="translate(49.000000, 56.129032)">
-                    <rect id="矩形复制-101" fill="#FFFFFF" x="0" y="0" width="67.2" height="67.3548387"></rect>
-                    <rect id="矩形复制-100" fill="#505050" x="16.8" y="16.8387097" width="33.6" height="33.6774194"></rect>
-                </g>
                 <polyline id="矩形复制-99" stroke="#FFFFFF" stroke-width="16.79616" points="215.2 56.1290323 215.2 115.040492 159.2 115.040492 159.2 56.1290323"></polyline>
+                <polyline id="矩形复制-102" stroke="#FFFFFF" stroke-width="16.79616" transform="translate(81.411460, 90.500000) scale(-1, 1) rotate(90.000000) translate(-81.411460, -90.500000) " points="106.41146 58.5 106.41146 122.5 56.41146 122.5 56.41146 58.5"></polyline>
                 <polyline id="矩形复制-97" stroke="#FFFFFF" stroke-width="16.79616" transform="translate(85.000000, 192.965970) scale(1, -1) translate(-85.000000, -192.965970) " points="113 163.577101 113 222.354839 57 222.354839 57 163.577101"></polyline>
                 <g id="编组-5复制" transform="translate(157.000000, 154.129032)" stroke="#FFFFFF" stroke-width="16.79616">
                     <path d="M1.8,68.2258065 L1.8,0.870967742" id="矩形复制-94" transform="translate(1.800000, 34.548387) scale(1, -1) translate(-1.800000, -34.548387) "></path>
